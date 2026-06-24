@@ -44,7 +44,7 @@ The following preprocessing steps were performed:
 * Removed invalid records with zero views.
 * Engineered the following features:
 
-  * Engagement Rate (%)
+  * Engagement Rate_(%)
   * Title Length (Words)
   * Title Length Groups
 
