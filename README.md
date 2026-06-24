@@ -105,6 +105,7 @@ An interactive **Power BI dashboard** was developed to visualize:
 ### Cross-Country Insights
 <img width="623" height="384" alt="power_bi_dashboard_youtube" src="https://github.com/user-attachments/assets/7aad1ff6-98e4-4c84-bcab-293ec8df9ff1" />
 
+**Note:** The Power BI dashboard file is available upon request.
 
 ---
 
