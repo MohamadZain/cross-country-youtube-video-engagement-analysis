@@ -120,29 +120,11 @@ An interactive **Power BI dashboard** was developed to visualize:
 * Jupyter Notebook
 * Power BI
 
----
-
-## Repository Structure
-
-```
-├── notebooks/
-│   └── youtube_analysis.ipynb
-├── dashboard/
-│   └── youtube_dashboard.pbix
-├── data/
-│   └── processed_dataset.csv
-├── presentation/
-│   └── presentation.pdf
-├── images/
-├── requirements.txt
-└── README.md
-```
 
 ---
 
 ## Future Improvements
 
-* Perform additional post hoc analyses for video categories.
 * Explore predictive models for engagement estimation.
 * Incorporate additional metadata such as upload timing and channel characteristics.
 * Expand the analysis to include more countries and recent datasets.
