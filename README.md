@@ -58,6 +58,16 @@ The exploratory analysis included:
 * Box Plot for Engagement Rate
 * Correlation Heatmap
 
+Distribution of Engagement Rate
+<img width="933" height="549" alt="image" src="https://github.com/user-attachments/assets/bdd6c98d-354a-41e5-840b-d09d367bc5d5" />
+
+Box Plot for Engagement Rate
+<img width="1226" height="434" alt="image" src="https://github.com/user-attachments/assets/723fcb69-3cc0-4bd9-b176-8162cb7cefe5" />
+
+Correlation Heatmap
+<img width="540" height="399" alt="image" src="https://github.com/user-attachments/assets/de38eee8-6684-4f5a-a5ab-872c6ed8aa65" />
+
+
 ### Key Observations
 
 * Engagement rates exhibit a right-skewed distribution.
